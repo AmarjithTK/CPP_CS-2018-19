@@ -1,47 +1,56 @@
-# Collection of C++ programs from SCERT First year ComputerScience Testbook
-This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
+## Collection of C++ programs from SCERT Kerala First year Computer Science Testbook
 
-I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
+#####This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
+
+#####I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
 
 ### Downloading the code
 
 #### Easy Method
 
-Just click on the the Clone or download section on the right side and choose Download Zip 
+    *Just click on the the Clone or download section on the right side and choose Download Zip 
 
-Extract the files by right by using approprate software
+    *Extract the files by right by using approprate software
 
-#### Advanced method ( Using git)
+#### Advanced method ( Using git )
 
 1.Open terminal
+
 2.Type 
     ```bash
      +sudo apt-get install git-core
     ```
 3.Grab the link from github
+
 4.Type
     ```bash
      + git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
     ```
+
 5.Done
 
 ### Usage
 
-*Note that ur pc should be installed with GCC compiler
+    Note that ur pc should be installed with GCC compiler
+        * if you dont have it then you can get it by typing 
+        
+        $ sudo apt install gcc
+        $ sudo apt install build-essential
 
 Navigate to the folder of the file that you want to execute
+
 Type
 
-    ```bash
-     gcc File_name.cpp -o Output_name
-    ```
-Now ur Program must be compiled
 
-It's time to run the code
+     * gcc File_name.cpp -o Output_name
+    
+Now your Program must be compiled
 
-    ```bash
-     ./file_name
-    ```
+It's time to execute and run the code
+
+    
+    *./file_name
+    
 
 ## Special Notes
 This source has been primarly divided into two parts. The C++ programs of First testbook and the Second testbook. The first testbook have no subdivisions and Second tesbook has been divided into different catagories based on chapter and important concepts
@@ -59,7 +68,7 @@ This source has been primarly divided into two parts. The C++ programs of First 
 
 ## Second Testbook
 
-### For Loop
+### For loop
     * Average score of students using for loop
     * Factorial using for loop
     * Fibnocci sequence
@@ -83,7 +92,7 @@ This source has been primarly divided into two parts. The C++ programs of First 
     * Print day using switch
     * To check if its a vowel
 
-### While Loop
+### While loop
     * To check if its a palindrome using while loop
     * Sum of 10 even numbers using while loop
     * While loop structure
