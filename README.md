@@ -1,10 +1,10 @@
-# Collection of C++ programs from SCERT first year ComputerScience Testbook
+## Collection of C++ programs from SCERT first year ComputerScience Testbook
  I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
 
-##Usage
+## Usage
 This source has been primarly divided into 2 . The programs of First part of testbook and Of the Second testbook.
 
-##First Testbook
+## First Testbook
 
 * Area and perimeter of a circle
 * ASCII value of a number
@@ -15,7 +15,7 @@ This source has been primarly divided into 2 . The programs of First part of tes
 * Simple interest calculator
 * Sum of 3 numbers
 
-##Second Testbook
+## Second Testbook
 
 * 
 * 
