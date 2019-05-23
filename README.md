@@ -1,4 +1,4 @@
-## Collection of C++ programs from SCERT First year ComputerScience Testbook
+## Collection of C++ programs from SCERT First year Computer Science Testbook
 This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
 
 I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
