@@ -18,16 +18,14 @@
 
     Type 
     
-     sudo apt-get install git-core
-    
-    
+    sudo apt-get install git-core
+     
     Grab the link from github
 
     Type
     
-      git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
+    git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
     
-
     Done. It's now downloaded to your PC
 
 ### Usage
