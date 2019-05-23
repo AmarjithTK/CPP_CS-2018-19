@@ -1,8 +1,8 @@
 ## Collection of C++ programs from SCERT Kerala First year Computer Science Testbook
 
-#####This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
+##### This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
 
-#####I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
+##### I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
 
 ### Downloading the code
 
@@ -16,24 +16,24 @@
 
     *Open terminal
 
-    Type 
-    ```
+    *Type 
+    
      sudo apt-get install git-core
-    ```
+    
     
     *Grab the link from github
 
     *Type
-    ```
+    
       git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
-    ```
+    
 
     *Done. It's now downloaded to your PC
 
 ### Usage
 
     Note that ur pc should be installed with GCC compiler
-        if you dont have it then you can get it by typing 
+    if you dont have it then you can get it by typing 
         
         $ sudo apt install gcc
         $ sudo apt install build-essential
