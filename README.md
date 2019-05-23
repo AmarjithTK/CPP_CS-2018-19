@@ -14,25 +14,26 @@
 
 #### Advanced method ( Using git )
 
-1.Open terminal
+    *Open terminal
 
-2.Type 
-    ```bash
-     +sudo apt-get install git-core
+    Type 
     ```
-3.Grab the link from github
+     sudo apt-get install git-core
+    ```
+    
+    *Grab the link from github
 
-4.Type
-    ```bash
-     + git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
+    *Type
+    ```
+      git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
     ```
 
-5.Done
+    *Done. It's now downloaded to your PC
 
 ### Usage
 
     Note that ur pc should be installed with GCC compiler
-        * if you dont have it then you can get it by typing 
+        if you dont have it then you can get it by typing 
         
         $ sudo apt install gcc
         $ sudo apt install build-essential
@@ -42,14 +43,14 @@ Navigate to the folder of the file that you want to execute
 Type
 
 
-     * gcc File_name.cpp -o Output_name
+    $ gcc File_name.cpp -o Output_name
     
 Now your Program must be compiled
 
 It's time to execute and run the code
 
     
-    *./file_name
+    $ ./file_name
     
 
 ## Special Notes
@@ -105,7 +106,7 @@ This source has been primarly divided into two parts. The C++ programs of First 
  ### Note 
  You can make use of this repo without any kind of permission as its made to accomplish open source standards. It's licensed using GNU General public License 3.0 and I'll be very happy to help you if are facing any issues and don't forget to make a comment if I did any mistakes. I'm happy to hear to your suggestions
 
- ### Credits 
+ ## Credits 
  SCERT for giving us with a great testbook with these handful of programs to help us understand the basic concepts of C++ and go beyond the limits to become the masters of computer science. I hope you guys will update the Testbook with latest developments in computer science
 
 
