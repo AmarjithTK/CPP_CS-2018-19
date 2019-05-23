@@ -8,35 +8,35 @@
 
 #### Easy Method
 
-    *Just click on the the Clone or download section on the right side and choose Download Zip 
+    Just click on the the Clone or download section on the right side and choose Download Zip 
 
-    *Extract the files by right by using approprate software
+    Extract the files by right by using approprate software
 
 #### Advanced method ( Using git )
 
-    *Open terminal
+    Open terminal
 
-    *Type 
+    Type 
     
      sudo apt-get install git-core
     
     
-    *Grab the link from github
+    Grab the link from github
 
-    *Type
+    Type
     
       git clone https://github.com/AmarjithTK/CPP_CS-2018-19.git
     
 
-    *Done. It's now downloaded to your PC
+    Done. It's now downloaded to your PC
 
 ### Usage
 
     Note that ur pc should be installed with GCC compiler
     if you dont have it then you can get it by typing 
         
-        $ sudo apt install gcc
-        $ sudo apt install build-essential
+    $ sudo apt install gcc
+    $ sudo apt install build-essential
 
 Navigate to the folder of the file that you want to execute
 
