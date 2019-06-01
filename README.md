@@ -1,6 +1,6 @@
 ## Collection of C++ programs from SCERT Kerala First year Computer Science Testbook
 
-#### This repository contains the supporting program files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
+#### This repository contains the source code files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
 
 #### I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
 
@@ -71,12 +71,24 @@ This source has been primarly divided into two parts. The C++ programs of First 
 
 ## Second Testbook
 
+### Arrays
+    * Addition of a matrix
+    * Array traversal
+    * Binary search
+    * Bubble sort
+    * Linear Search
+    * Print a matrix
+    * Print the scores in reverse order
+    * Selection sort
+    * Sum of diagonal elements of a matrix
+
 ### For loop
     * Average score of students using for loop
     * Factorial using for loop
     * Fibnocci sequence
     * To check whether a number is prime 
     * To display star pattern
+    * Print the largest integer 
 
 ### IF-Else ladder
     * Find the tallest person
@@ -105,7 +117,7 @@ This source has been primarly divided into two parts. The C++ programs of First 
     * Find Area using the do while loop 
     * finding the largest number using conditional operators
 
- ### Note 
+ ## * Note 
  You can make use of this repo without any kind of permission as its made to accomplish open source standards. It's licensed using GNU General public License 3.0 and I'll be very happy to help you if are facing any issues and don't forget to make a comment if I did any mistakes. I'm happy to hear to your suggestions
 
  ## Credits 
