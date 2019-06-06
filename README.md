@@ -1,6 +1,6 @@
-## Collection of C++ programs from SCERT Kerala First year Computer Science Testbook
+## Collection of C++ programs First year Computer Science Testbook SCERT
 
-This repository contains the source code files needed for teaching computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
+This repository contains the source code files of computer science First year C++ Programming. It's not the complete and perfect resource but I have tried my best to bring most of the stuff within the reach of you guys
 
 I have coded and compiled this set of Programs as a Classroom workout and I belive this can be a helpful resource for both students and teachers as I have nicely organised,compiled and debugged the code. 
 
@@ -85,6 +85,19 @@ This source has been primarly divided into two parts. The C++ programs of First 
     * Selection sort
     * Sum of diagonal elements of a matrix
 
+### Functions
+    * Append one string on the other
+    * Binary equivallent of a number
+    * Call by reference method
+    * Call by value method
+    * Creating of header files
+    * Find length of sides of a triangles
+    * Find value of ncr
+    * Recursional function example
+    * Swap the value of variables
+    * To illustrate scope - 1
+    * To illustrate scope - 2
+
 ### For loop
     * Average score of students using for loop
     * Factorial using for loop
@@ -103,6 +116,14 @@ This source has been primarly divided into two parts. The C++ programs of First 
     * Passed or failed shower
     * Print day if else
     * Square root using if else
+
+### String Handling and I/O functions
+    * Count different types of character functions
+    * Count vowels in a string
+    * Display DOB in Date format
+    * Input and display a string
+    * Search a character using character console function
+    * Stream functions Input and Output
 
 ### Switch Case
     * Arithmetic operation using switch
